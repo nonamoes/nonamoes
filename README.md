@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Natty.
+- 👋 Hi, I’m Natty. 🐇
 - 👀 I’m interested in bunny, tech, learning, education, web developer, languages, networking, kdramas, noodles, anime. 
 - 🌱 I’m currently learning .py .js .cs
 - 💞️ I’m looking to collaborate on anything you want to invite me ☕
