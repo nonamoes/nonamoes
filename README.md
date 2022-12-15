@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning .py .js .cs
 - 💞️ I’m looking to collaborate on anything you want invite me ☕
 - 📫 How to reach me ~
--    [Twitter](https://twitter.com/nonamoes)
--    [LinkedIn](https://www.linkedin.com/in/nonamoes/)
--    [Platzi](https://platzi.com/p/nonamoes/)
+  -    [Twitter](https://twitter.com/nonamoes)
+  -    [LinkedIn](https://www.linkedin.com/in/nonamoes/)
+  -    [Platzi](https://platzi.com/p/nonamoes/)
 
 <!---
 nonamoes/nonamoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
